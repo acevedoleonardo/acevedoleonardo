@@ -1,16 +1,17 @@
 # Developer Software Junior Backend
 
-## Edgar Leonardo Acevedo Arteaga 👋
+
+# Portafolio Académico - Edgar Leonardo Acevedo Arteaga 🔭
+
+Bienvenido a mi portafolio académico. Soy un estudiante en formación apasionado por la tecnología, metódico y analítico. Me gusta enfocarme en encontrar soluciones, no problemas. Mis metas siempre están alineadas con mis valores y el futuro que deseo construir. 🌱 
+
+---
+
+## Habilidades Técnicas ⚡
+
+- Lenguajes de programación: Python, JavaScript, HTML5, CSS3.
+- Bases de datos: MySQL, MongoDB.
+- Herramientas y tecnologías: GitHub, Scrum, Jira, Linux, Windows 11.
+- Manejo de ofimática a nivel intermedio.
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
