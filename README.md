@@ -12,6 +12,7 @@ Bienvenido a mi portafolio académico. Soy un estudiante en formación apasionad
 - Lenguajes de programación: Python, JavaScript, HTML5, CSS3.
 - Bases de datos: MySQL, MongoDB.
 - Herramientas y tecnologías: GitHub, Scrum, Jira, Linux, Windows 11.
-- Manejo de ofimática a nivel intermedio.
+- Manejo de ofimática a nivel intermedio (Microsoft Office 365).
+
 
 
