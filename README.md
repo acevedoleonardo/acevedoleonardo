@@ -1,9 +1,6 @@
-# Developer Software Junior Backend
+# Portafolio Académico - Leonardo Acevedo 🔭
 
-
-# Portafolio Académico - Edgar Leonardo Acevedo Arteaga 🔭
-
-Bienvenido a mi portafolio académico. Soy un estudiante en formación apasionado por la tecnología, metódico y analítico. Me gusta enfocarme en encontrar soluciones, no problemas. Mis metas siempre están alineadas con mis valores y el futuro que deseo construir. 🌱 
+Bienvenido a mi portafolio académico. Soy un estudiante de Desarrollo de Software en formación apasionado por la tecnología, metódico y analítico. Me gusta enfocarme en encontrar soluciones, no problemas. Mis metas siempre están alineadas con mis valores y el futuro que deseo construir. 🌱 
 
 ---
 
